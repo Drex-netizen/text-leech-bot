@@ -12,7 +12,7 @@
 ## Deploy To Heroku<p align="center">
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drex-netizen/text-leech-bot)<p align="center">
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Drex-netizen/text-leech-bot&template=https://github.com/Drex-netizen/text-leech-bot)
 
 
 ## Deploy To Google Colab
